@@ -133,17 +133,13 @@ body{
         padding: 10px 20px; 
     }
 
-.menu li:hover {
-    font-weight: bold;
-    color: white;
-    background-color: #B92933;
-    width: 90%;
-}
-
-
-    .menu ul li a:hover {
+    .menu li:hover {
+        font-weight: bold;
         color: white;
+        background-color: #B92933;
+        width: 90%;
     }
+
     .icons {
         margin-right: 0;
         position: fixed;
