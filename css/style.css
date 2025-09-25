@@ -109,7 +109,7 @@ body{
         background-color: #000;
         top: 3.5em;
         left: 50%;
-        transform: translateX(-50%);
+        transform: translateX(-53%);
         margin: 0;
         padding: 0;
     }
@@ -137,9 +137,13 @@ body{
         font-weight: bold;
         color: white;
         background-color: #B92933;
-        width: 90%;
+        width: 83%;
     }
 
+
+    .menu ul li a:hover {
+        color: white;
+    }
     .icons {
         margin-right: 0;
         position: fixed;
